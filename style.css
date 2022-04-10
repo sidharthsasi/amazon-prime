@@ -1,0 +1,349 @@
+body
+{
+    
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #0f171e;   
+    display: flex;   
+   
+}
+.leftside
+{
+    width: 50%;
+    background-color: #0f171e; 
+}
+.leftside img
+{
+    height: 40px;
+    width: 112px;
+    padding-left: 47px;
+    padding-top: 15px;
+}
+.rightside
+{
+    width: 50%;
+    background-color: #0f171e;   
+    display: flex;
+}
+.rightside img
+{
+    height: 22px;
+    padding-top: 25px;
+    padding-left: 490px;
+}
+.rightside h1
+{
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    font-weight: 100;
+    color: #8197a4;
+    font-size: 17px;
+    padding-top: 18px;
+    padding-left: 3px;
+}
+.rightside p
+{
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    color: #8197a4;
+    font-size: 17px;
+    padding-top: 11px;
+    padding-left: 33px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container2{
+    margin: 0%;
+    width: 100%;
+}
+.container2 img
+{
+    width: 100%;
+
+}
+.container2 h1{
+
+    color: white;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 125px;
+    font-size: 40px;
+    line-height: 36px;
+    font-family: "Amazon Ember";
+    font-weight: 50;
+    line-height: 36px;
+    -webkit-font-smoothing: antialiased;
+    font-family:Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important ;   
+    
+}
+.container2 p
+{
+    color: white;
+    position: absolute;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    min-height: 70vh;
+    min-width: 320px;
+    margin-left: 50px;
+    margin-top: 175px;
+}
+.container2 button
+{
+    color:white;
+    background-color:#0f79af;
+    margin-left: 50px;
+    margin-top: 275px;
+    height: 43px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 4px;
+    font-family:Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important ;
+    border: none;
+    position: absolute;
+    
+}
+.container2{
+    background-color: black;
+    
+}
+
+.container3
+{
+    width: 100%;
+    height: 450px;
+    
+}
+.container3 h1
+{
+color: black;
+font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+font-size: 46px;
+line-height: 41px;
+margin-left: 50px;
+margin-top: 47px;   
+font-weight: 100;
+}
+.container3 p
+{
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    color: #0f171e;
+    margin-left:50px;
+    margin-top: 10px; 
+    font-size: 25px;  
+    line-height: 35px;
+    
+
+}
+.container3
+{
+    margin-top: -175px;
+    background-color: white;
+  
+    display: flex;
+  
+    
+}
+.sec1 img
+{
+      
+    padding-left: .25%; 
+    
+}
+.a{
+    
+    background: white;
+    width: 50%;
+}
+.B{
+    background: white;
+   height: 450px;
+    width: 54%;
+    padding-left: 40px;
+
+    padding-top: 30px;
+}
+.AA{
+    width: 200px;
+    height: 130px;
+}
+.container4 img
+{
+
+width: 100%;
+}
+.container4
+{
+    width: 100%;
+    height: 450px;
+   
+}
+.container4 h1
+{
+   
+   color: rgb(231, 222, 222);
+   position: absolute;
+  
+   margin-top: 55px;
+    margin-left: 42px;
+   
+   font-size: 40px;
+   font-weight: 100;
+
+   font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+   
+}
+.container4 p
+{
+    color: rgb(231, 222, 222);
+    margin-left: 37px;
+    margin-top: 177px;
+    font-size: 25px;  
+    font-weight: 100;
+    line-height: 35px;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    position: absolute;
+    
+}
+.container4 img
+{
+    position: absolute;
+}
+.container4 button
+{
+    color:white;
+    background-color:#0f79af;
+    margin-left: 50px;
+    margin-top: 333px;
+    height: 43px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 4px;
+    font-family:Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important ;
+    border: none;
+    position: absolute;
+    
+}
+.container5 img
+{
+   position: absolute;
+    margin-top: 29px;
+    width: 100%;
+    
+}
+.container5 h1
+{
+   
+   color: rgb(231, 222, 222);
+   position: absolute;
+  
+   margin-top: 55px;
+    margin-left: 750px;
+   
+   font-size: 40px;
+   font-weight: 100;
+
+   font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+   
+}
+.container5 p
+{
+    color: rgb(231, 222, 222);
+    margin-left: 755px;
+    margin-top: 118px;
+    font-size: 21px;  
+    font-weight: 100;
+    line-height: 30px;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    position: absolute;
+    
+}
+.container5 button
+{
+    color:white;
+    background-color:#0f79af;
+    margin-left: 756px;
+    margin-top: 315px;
+    height: 50px;
+    width: 250px;
+    font-size: 18px;
+    border-radius: 4px;
+    font-family:Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important ;
+    border: none;
+    position: absolute;
+}
+.container6 h1
+{
+    color: rgb(231, 222, 222);
+    position: absolute;
+   
+    
+    margin-top: 580px;
+    margin-left: 145px;
+    
+    font-size: 40px;
+    font-weight: 100;
+ 
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    
+   
+}
+.container6 img
+{
+    position: absolute;
+    margin-top: 510px;
+    width: 100%;
+}
+.container6 p
+{
+    color: rgb(231, 222, 222);
+    margin-left: 140px;
+    margin-top: 658px;
+    font-size: 21px;  
+    font-weight: 100;
+    line-height: 30px;
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif!important;
+    position: absolute;
+}
+.footer
+{
+    width: 100%;
+    height: 153px;
+    background-color: #363c41;;  
+    margin-top: 990px; 
+    position: absolute;
+    
+}
+.footer img
+{
+    padding-left: 620px;
+    padding-top: 31px;
+}
+.link
+{
+    position: absolute;
+    display: flex;
+    text-decoration: none;
+    padding-left: 370px;
+    padding-top: 1065px;
+    color: rgb(56, 106, 172);
+} 
+.link2 p
+{
+    position: absolute;
+    display: flex;
+    padding-left: 680px;
+    padding-top: 1065px;
+    color: #949494;
+    
+}
